@@ -9,6 +9,11 @@
 
 ![Alt text](docs/framework.jpg)
 
+<video controls width="720">
+  <source src="https://github.com/<user>/<repo>/raw/<branch>/assets/demo.mp4" type="video/mp4">
+  Your browser does not support video playback. You can click <a href="https://github.com/2351672564/CogniDrive/blob/main/docs/v1.mp4">here</a> to view。
+</video>
+
 ## Installation
 a. Install the dependent libraries as follows:
 
