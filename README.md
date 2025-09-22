@@ -9,7 +9,9 @@
 
 ![Alt text](docs/framework.jpg)
 
-https://github.com/2351672564/CogniDrive/blob/main/docs/v1.mp4
+
+https://github.com/user-attachments/assets/561b6148-acca-4692-baee-5092f0cc9d08
+
 
 ## Installation
 a. Install the dependent libraries as follows:
