@@ -10,7 +10,11 @@
 ![Alt text](docs/framework.jpg)
 
 
-https://github.com/user-attachments/assets/561b6148-acca-4692-baee-5092f0cc9d08
+
+
+https://github.com/user-attachments/assets/14ee0672-133c-4e5c-94c2-736b6558dd50
+
+
 
 
 ## Installation
