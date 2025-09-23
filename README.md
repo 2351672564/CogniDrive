@@ -10,10 +10,7 @@
 ![Alt text](docs/framework.jpg)
 
 
-
-<video src="[视频链接](https://github.com/2351672564/CogniDrive/edit/main/README.md#:~:text=framework.jpg-,v1,-.mp4)"></video>
-
-
+https://github.com/user-attachments/assets/d8e3315b-43b1-4db3-ba44-71798c2b2d3a
 
 
 ## Installation
