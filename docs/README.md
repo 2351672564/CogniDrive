@@ -9,6 +9,10 @@
 
 ![Alt text](driver/access/framework.jpg)
 
+<video src="[视频链接](https://github.com/2351672564/CogniDrive/tree/main/docs#:~:text=framework.jpg-,v1,-.mp4)"></video>
+
+
+
 ## Installation
 a. Install the dependent libraries as follows:
 
