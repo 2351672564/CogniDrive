@@ -11,8 +11,7 @@
 
 
 
-
-[https://github.com/user-attachments/assets/14ee0672-133c-4e5c-94c2-736b6558dd50](https://github.com/2351672564/CogniDrive/edit/main/README.md#:~:text=framework.jpg-,v1,-.mp4)
+<video src="[视频链接](https://github.com/2351672564/CogniDrive/edit/main/README.md#:~:text=framework.jpg-,v1,-.mp4)"></video>
 
 
 
